@@ -1,0 +1,1 @@
+# trening_app_ng
